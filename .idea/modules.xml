@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/easeui/easeui.iml" filepath="$PROJECT_DIR$/easeui/easeui.iml" />
-      <module fileurl="file://$PROJECT_DIR$/huanxin.iml" filepath="$PROJECT_DIR$/huanxin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/haunxin.iml" filepath="$PROJECT_DIR$/haunxin.iml" />
     </modules>
   </component>
 </project>
