@@ -73,7 +73,8 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
                    @Override
                    public void onError(int code, String message) {
               //       Toast.makeText(LoginActivity.this, ""+message, Toast.LENGTH_SHORT).show();
-                       System.out.print("wwwwwlogin"+message);
+               //        System.out.print("wwwwwlogin"+message);
+                       System.out.println("我就是喜欢你了");
 
                    }
                });
